@@ -1,9 +1,9 @@
-# Devin Cunningham
+# Devin Tyler Cunningham
 
 ## Software Development Engineer
 
 ```javascript
-const devinCunningham = {
+const devinTylerCunningham = {
   phone: "425.766.1312",
   email: "Dtyler.Cunningham@Gmail.com",
   location: "Issaquah, Wa",
@@ -25,7 +25,7 @@ Full-stack software developer skilled in building web applications, collaboratin
 
 Bellevue, WA | Jan 2019 – Present
 
-- Working on the Cloud Services Team
+- Will be an SDE on the Cloud Services Team
 
 ### Allegro Pediatrics | Software Development Engineer (under contract)
 
