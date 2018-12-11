@@ -2,7 +2,7 @@
 
 ## Software Development Engineer
 
----
+Phone: 425.766.1312
 
 Email: Dtyler.Cunningham@Gmail.com
 
@@ -11,8 +11,6 @@ Location: Issaquah, Wa
 Linkedin: linkedin.com/in/DevinCunningham
 
 Github: github.com/DevinTyler26
-
----
 
 ## About Me
 
@@ -54,13 +52,13 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ## Education
 
-> Code Fellows | Seattle, WA August 2018
+Code Fellows | Seattle, WA August 2018
 
 > Certificate for Advanced Software Development in Full-Stack JavaScript
 
 Seattle Central Community College | Seattle, WA | June 2012
 
-Commercial Photography
+> Commercial Photography
 
 2010-2014 (expected)
 : **PhD, Computer Science**; Awesome University (MyTown)
