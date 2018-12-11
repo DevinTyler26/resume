@@ -9,6 +9,7 @@ const devinCunningham = {
   location: "Issaquah, Wa",
   linkedin: "linkedin.com/in/DevinCunningham",
   github: "github.com/DevinTyler26",
+  longestChipotleStreak: 425,
   greatProgrammer: true
 };
 // clickable links down below
