@@ -94,3 +94,9 @@ Commercial Photography
 ## Programming Languages
 
 JavaScript, HTML5, CSS/SASS, & Python
+
+## Tools
+
+Git, GitHub, VS Code, REST APIs, Heroku, MongoDB, NodeJS,
+ReactJS/Redux, Webpack, Jest, Cypress, Swagger.io, Handlebars, AWS - S3, CloudFront,
+& DynamoDB
