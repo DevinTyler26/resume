@@ -104,7 +104,7 @@ Git, GitHub, VS Code, REST APIs, Heroku, MongoDB, NodeJS,
 ReactJS/Redux, Webpack, Jest, Cypress, Swagger.io, Handlebars, AWS - S3, CloudFront,
 & DynamoDB
 
-## Clickable ContactLinks
+## Clickable Contact Links
 
 Dtyler.Cunningham@Gmail.com
 
