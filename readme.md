@@ -4,9 +4,14 @@
 
 ---
 
-1 MyAddress email@example.com
-MyTown 1000 @twitter_handle
-MyCountry 1800 my-phone-nr
+```json
+{
+  "email": "Dtyler.Cunningham@Gmail.com",
+  "location": "Issaquah, Wa",
+  "linkedin": "linkedin.com/in/devincunningham",
+  "github": "github.com/DevinTyler26"
+}
+```
 
 ---
 
