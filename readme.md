@@ -2,15 +2,16 @@
 
 ## Software Development Engineer
 
-Phone: 425.766.1312
-
-Email: Dtyler.Cunningham@Gmail.com
-
-Location: Issaquah, Wa
-
-[Linkedin](https://linkedin.com/in/DevinCunningham)
-
-[Github](https://github.com/DevinTyler26)
+```javascript
+{
+    "phone": "425.766.1312",
+    "email": "Dtyler.Cunningham@Gmail.com",
+    "location": "Issaquah, Wa",
+    "linkedin": "linkedin.com/in/DevinCunningham",
+    "github": "github.com/DevinTyler26"
+}
+// clickable links down below
+```
 
 ## About Me
 
@@ -100,3 +101,11 @@ JavaScript, HTML5, CSS/SASS, & Python
 Git, GitHub, VS Code, REST APIs, Heroku, MongoDB, NodeJS,
 ReactJS/Redux, Webpack, Jest, Cypress, Swagger.io, Handlebars, AWS - S3, CloudFront,
 & DynamoDB
+
+## Clickable ContactLinks
+
+Dtyler.Cunningham@Gmail.com
+
+[Linkedin](https://linkedin.com/in/DevinCunningham)
+
+[Github](https://github.com/DevinTyler26)
