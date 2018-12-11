@@ -4,17 +4,13 @@
 
 ---
 
-{
+Email: Dtyler.Cunningham@Gmail.com
 
-"email": "Dtyler.Cunningham@Gmail.com",
+Location: Issaquah, Wa
 
-"location": "Issaquah, Wa",
+Linkedin: linkedin.com/in/DevinCunningham
 
-"linkedin": "linkedin.com/in/devincunningham",
-
-"github": "github.com/DevinTyler26"
-
-}
+Github: github.com/DevinTyler26
 
 ---
 
@@ -57,6 +53,14 @@ Bellevue, WA | Feb 2014 – Aug 2018
 - Worked on a team that re-designed and developed the public-facing website
 
 ## Education
+
+> Code Fellows | Seattle, WA August 2018
+
+> Certificate for Advanced Software Development in Full-Stack JavaScript
+
+Seattle Central Community College | Seattle, WA | June 2012
+
+Commercial Photography
 
 2010-2014 (expected)
 : **PhD, Computer Science**; Awesome University (MyTown)
