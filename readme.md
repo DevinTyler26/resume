@@ -64,20 +64,11 @@ Seattle Central Community College | Seattle, WA
 
 ## Technical Experience
 
-My Cool Side Project
-: For items which don't have a clear time ordering, a definition
-list can be used to have named items.
+### Allegro IT Inventory | October 2018 | Private Internal Application
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-: List open source contributions here, perhaps placing emphasis on
-the project names, for example the **Linux Kernel**, where you
-implemented multithreading over a long weekend, or **node.js**
-(with [link](http://nodejs.org)) which was actually totally
-your idea...
+> Full-stack React web application to manage the IT department’s inventory. Deployed and hosted on an internal web server.
+> Languages & Tools: JavaScript, NodeJS, ReactJS, Google OAuth, DyanmoDB, JWT, Superagent, Jest, Travis CI, Postman, HTML, CSS/SCSS, React Data Grid
+> Specific Contributions: Built and deployed full application.
 
 Programming Languages
 : **first-lang:** Here, we have an itemization, where we only want
