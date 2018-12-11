@@ -4,14 +4,17 @@
 
 ---
 
-```json
 {
-  "email": "Dtyler.Cunningham@Gmail.com",
-  "location": "Issaquah, Wa",
-  "linkedin": "linkedin.com/in/devincunningham",
-  "github": "github.com/DevinTyler26"
+
+"email": "Dtyler.Cunningham@Gmail.com",
+
+"location": "Issaquah, Wa",
+
+"linkedin": "linkedin.com/in/devincunningham",
+
+"github": "github.com/DevinTyler26"
+
 }
-```
 
 ---
 
