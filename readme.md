@@ -69,7 +69,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 - Full-stack React web application to help the workflow of the mentors at Rainier Athletes, a nonprofit.
 - Languages & Tools: JavaScript, NodeJS, ReactJS, Google APIs & OAuth, MongoDB, Mongoose, JWT, Superagent, Jest, Travis CI, Heroku, Postman, HTML-PDF, HTML, CSS/SCSS
-- Specific Contributions: Built Google API Calls, Built API Endpoints, Built API Models, Implemented HTML-PDF, Deployed Heroku Backend, Implemented Role Based Authorization, Built API Query Capabilities, Built API Tests, Built Swagger.io Interface
+- Specific Contributions: Built Google API Calls, Built API Endpoints, Built API Models, Implemented HTML-PDF, Deployed Heroku Backend, Implemented Role Based Authorization, Built API Query Capabilities, Built API Tests
 
 ### myGarage | July 2018 | [GitHub](github.com/Chemenes/myGarage) | [Swagger API](https://app.swaggerhub.com/apis/DevinTyler26/myGarageAPI/1.0.0#/)
 
