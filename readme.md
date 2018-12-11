@@ -52,25 +52,15 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ## Education
 
-Code Fellows | Seattle, WA August 2018
+Code Fellows | Seattle, WA
 
+> October 2018 - August 2018
 > Certificate for Advanced Software Development in Full-Stack JavaScript
 
-Seattle Central Community College | Seattle, WA | June 2012
+Seattle Central Community College | Seattle, WA
 
+> September 2010 - June 2012
 > Commercial Photography
-
-2010-2014 (expected)
-: **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-: **BSc, Computer Science and Electrical Engineering**; University of
-HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 ## Technical Experience
 
