@@ -10,10 +10,7 @@ const devinTylerCunningham = {
   linkedin: "linkedin.com/in/DevinCunningham",
   github: "github.com/DevinTyler26",
   longestChipotleStreak: 425,
-  greatProgrammer: true,
-  print: () => {
-    javascript: window.print();
-  }
+  greatProgrammer: true
 };
 // clickable links down below
 ```
