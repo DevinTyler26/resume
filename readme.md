@@ -3,13 +3,14 @@
 ## Software Development Engineer
 
 ```javascript
-{
-    "phone": "425.766.1312",
-    "email": "Dtyler.Cunningham@Gmail.com",
-    "location": "Issaquah, Wa",
-    "linkedin": "linkedin.com/in/DevinCunningham",
-    "github": "github.com/DevinTyler26"
-}
+const devinCunningham = {
+  phone: "425.766.1312",
+  email: "Dtyler.Cunningham@Gmail.com",
+  location: "Issaquah, Wa",
+  linkedin: "linkedin.com/in/DevinCunningham",
+  github: "github.com/DevinTyler26",
+  greatProgrammer: true
+};
 // clickable links down below
 ```
 
@@ -55,7 +56,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ### Scheduling Binder | November 2018 | [Deployed App](https://scbinder.herokuapp.com)
 
-- Full-stack React web application to manage providers or staff. Built to pitch to client. Role based permissions for staff and admin. Deployed and hosted on Heroku.
+- Full-stack React web application to manage providers or staff. Built to pitch to client. Role based permissions for staff and admin access. Deployed and hosted on Heroku.
 - Languages & Tools: JavaScript, NodeJS, ReactJS, Basic Auth, MongoDB, Mongoose, JWT, Axios, Postman, HTML, CSS/SCSS
 - Specific Contributions: Following Code with Mosh's Mastering React Course, I modified, customized and deployed the full application.
 - Special Shoutouts: Code with Mosh, Mastering React.
