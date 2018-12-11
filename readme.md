@@ -8,9 +8,9 @@ Email: Dtyler.Cunningham@Gmail.com
 
 Location: Issaquah, Wa
 
-[Linkedin](linkedin.com/in/DevinCunningham)
+[Linkedin](https://linkedin.com/in/DevinCunningham)
 
-[Github](github.com/DevinTyler26)
+[Github](https://github.com/DevinTyler26)
 
 ## About Me
 
@@ -52,7 +52,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ## Technical Experience
 
-### Scheduling Binder | November 2018 | [Deployed App](scbinder.herokuapp.com)
+### Scheduling Binder | November 2018 | [Deployed App](https://scbinder.herokuapp.com)
 
 - Full-stack React web application to manage providers or staff. Built to pitch to client. Role based permissions for staff and admin. Deployed and hosted on Heroku.
 - Languages & Tools: JavaScript, NodeJS, ReactJS, Basic Auth, MongoDB, Mongoose, JWT, Axios, Postman, HTML, CSS/SCSS
@@ -65,7 +65,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 - Languages & Tools: JavaScript, NodeJS, ReactJS, Google OAuth, DyanmoDB, JWT, Superagent, Jest, Travis CI, Postman, HTML, CSS/SCSS, React Data Grid
 - Specific Contributions: Built and deployed full application.
 
-### Rainier Athletes | August 2018 | [GitHub](github.com/Rainier-Athletes)
+### Rainier Athletes | August 2018 | [GitHub](https://github.com/Rainier-Athletes)
 
 - Full-stack React web application to help the workflow of the mentors at Rainier Athletes, a nonprofit.
 - Languages & Tools: JavaScript, NodeJS, ReactJS, Google APIs & OAuth, MongoDB, Mongoose, JWT, Superagent, Jest, Travis CI, Heroku, Postman, HTML-PDF, HTML, CSS/SCSS
