@@ -18,13 +18,13 @@ Full-stack software developer skilled in building web applications, collaboratin
 
 ## Experience
 
-**SAP Concur | Software Development Engineer**
+### SAP Concur | Software Development Engineer
 
 Bellevue, WA | Jan 2019 – Present
 
 - Working on the Cloud Services Team
 
-**Allegro Pediatrics | Software Development Engineer (under contract)**
+### Allegro Pediatrics | Software Development Engineer (under contract)
 
 Bellevue, WA | Aug 2018 – Nov 2018
 
@@ -32,7 +32,7 @@ Bellevue, WA | Aug 2018 – Nov 2018
 - Administering on-premise web servers to deploy and host web applications.
 - Created video documentation for creating SharePoint sub-sites.
 
-**UW Professional & Continuing Education (Via Trilogy Education) | Primary Teaching Assistant**
+### UW Professional & Continuing Education (Via Trilogy Education) | Primary Teaching Assistant
 
 Bellevue, WA | Sep 2018 – Dec 2018
 
@@ -40,7 +40,7 @@ Bellevue, WA | Sep 2018 – Dec 2018
 - Providing feedback to improve programming technique and efficiency.
 - Motivating students to attain personal goals.
 
-**Allegro Pediatrics | Marketing and Communications Specialist**
+### Allegro Pediatrics | Marketing and Communications Specialist
 
 Bellevue, WA | Feb 2014 – Aug 2018
 
