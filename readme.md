@@ -55,7 +55,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ## Technical Experience
 
-### Scheduling Binder | November 2018 | [Deployed App](http://scbinder.us-west-2.elasticbeanstalk.com/)
+### [Scheduling Binder](http://scbinder.us-west-2.elasticbeanstalk.com/) | November 2018 | [Backend GitHub](https://github.com/DevinTyler26/scBinder_backend) [Frontend GitHub](https://github.com/DevinTyler26/scBinder_frontend)
 
 - Full-stack React web application to manage providers or staff. Built to pitch to client. Role based permissions for staff and admin access. Deployed and hosted on Heroku.
 - Languages & Tools: JavaScript, NodeJS, ReactJS, AWS Elastic Beanstalk, Heroku, Basic Auth, MongoDB, Mongoose, JWT, Axios, Postman, HTML, CSS/SCSS
