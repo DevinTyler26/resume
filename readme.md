@@ -55,11 +55,11 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ## Technical Experience
 
-### Scheduling Binder | November 2018 | [Deployed App](https://scbinder.herokuapp.com)
+### Scheduling Binder | November 2018 | [Deployed App](http://scbinder.us-west-2.elasticbeanstalk.com/)
 
 - Full-stack React web application to manage providers or staff. Built to pitch to client. Role based permissions for staff and admin access. Deployed and hosted on Heroku.
-- Languages & Tools: JavaScript, NodeJS, ReactJS, Basic Auth, MongoDB, Mongoose, JWT, Axios, Postman, HTML, CSS/SCSS
-- Specific Contributions: Following Code with Mosh's Mastering React Course, I modified, customized and deployed the full application.
+- Languages & Tools: JavaScript, NodeJS, ReactJS, AWS Elastic Beanstalk, Heroku, Basic Auth, MongoDB, Mongoose, JWT, Axios, Postman, HTML, CSS/SCSS
+- Specific Contributions: Following Code with Mosh's Mastering React Course, I modified, customized, and deployed the full application on AWS Elastic Beanstalk.
 - Special Shoutouts: Code with Mosh, Mastering React.
 
 ### Allegro IT Inventory | October 2018 | Private Internal Application
@@ -74,7 +74,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 - Languages & Tools: JavaScript, NodeJS, ReactJS, Google APIs & OAuth, MongoDB, Mongoose, JWT, Superagent, Jest, Travis CI, Heroku, Postman, HTML-PDF, HTML, CSS/SCSS
 - Specific Contributions: Built Google API Calls, Built API Endpoints, Built API Models, Implemented HTML-PDF, Deployed Heroku Backend, Implemented Role Based Authorization, Built API Query Capabilities, Built API Tests
 
-### myGarage | July 2018 | [GitHub](github.com/Chemenes/myGarage) | [Swagger API](https://app.swaggerhub.com/apis/DevinTyler26/myGarageAPI/1.0.0#/)
+### myGarage | July 2018 | [GitHub](https://github.com/Chemenes/myGarage) | [Swagger API](https://app.swaggerhub.com/apis/DevinTyler26/myGarageAPI/1.0.0#/)
 
 - MyGarage is a back-end application that supports the creation of vehicle-centric data. The API provides the following capabilities: secure sign-in and password storage, user account profiles, user created vehicles organized in garages, vehicle maintenance tracking, and the ability to attach documents to all resources.
 - Languages & Tools: JavaScript, NodeJS, MongoDB, Swagger.io, AWS S3
