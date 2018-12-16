@@ -60,7 +60,7 @@ Bellevue, WA | Feb 2014 – Aug 2018
 - To login:
   - Username: testAdmin or testUser
   - Password: 123456
-- Full-stack React web application to manage providers or staff. Role based permissions for staff and admin access. Instant search and filter. Deployed and hosted on AWS Elastic Beanstalk.
+- Full-stack React web application to display providers, their schedules, special notes, and profiles. Role based permissions for staff and admin access. Instant search and filter. Deployed and hosted on AWS Elastic Beanstalk.
 - Languages & Tools: JavaScript, NodeJS, ReactJS, AWS Elastic Beanstalk, Heroku, Basic Auth, MongoDB, Mongoose, MLab, JWT, Axios, Postman, HTML, CSS/SCSS
 - Specific Contributions: Following Code with Mosh's Mastering React Course, I modified, customized, and deployed the full application on AWS Elastic Beanstalk.
 - Special Shoutouts: Code with Mosh, Mastering React.
@@ -103,9 +103,8 @@ JavaScript, HTML5, CSS/SASS, & Python
 
 ## Tools
 
-Git, GitHub, VS Code, REST APIs, Heroku, MongoDB, NodeJS,
-ReactJS/Redux, Webpack, Jest, Cypress, Swagger.io, Handlebars, AWS - S3, CloudFront,
-& DynamoDB
+Git, GitHub, VS Code, REST APIs, Heroku, MongoDB, Mlab, Mongoose, NodeJS,
+ReactJS/Redux, Webpack, Jest, Cypress, Swagger.io, Handlebars, AWS - S3, CloudFront, Elastic Beanstalk, & DynamoDB
 
 ## Clickable Contact Links
 
