@@ -55,10 +55,13 @@ Bellevue, WA | Feb 2014 – Aug 2018
 
 ## Technical Experience
 
-### [Scheduling Binder](http://scbinder.us-west-2.elasticbeanstalk.com/) | November 2018 | [Backend GitHub](https://github.com/DevinTyler26/scBinder_backend) [Frontend GitHub](https://github.com/DevinTyler26/scBinder_frontend)
+### [Scheduling Binder](http://scbinder.us-west-2.elasticbeanstalk.com/) | November 2018 | [Backend Code](https://github.com/DevinTyler26/scBinder_backend) | [Frontend Code](https://github.com/DevinTyler26/scBinder_frontend)
 
-- Full-stack React web application to manage providers or staff. Built to pitch to client. Role based permissions for staff and admin access. Deployed and hosted on Heroku.
-- Languages & Tools: JavaScript, NodeJS, ReactJS, AWS Elastic Beanstalk, Heroku, Basic Auth, MongoDB, Mongoose, JWT, Axios, Postman, HTML, CSS/SCSS
+- To login:
+  - Username: testAdmin or testUser
+  - Password: 123456
+- Full-stack React web application to manage providers or staff. Role based permissions for staff and admin access. Instant search and filter. Deployed and hosted on AWS Elastic Beanstalk.
+- Languages & Tools: JavaScript, NodeJS, ReactJS, AWS Elastic Beanstalk, Heroku, Basic Auth, MongoDB, Mongoose, MLab, JWT, Axios, Postman, HTML, CSS/SCSS
 - Specific Contributions: Following Code with Mosh's Mastering React Course, I modified, customized, and deployed the full application on AWS Elastic Beanstalk.
 - Special Shoutouts: Code with Mosh, Mastering React.
 
