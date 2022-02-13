@@ -4,13 +4,11 @@
 
 ```javascript
 const devinTylerCunningham = {
-  phone: "425.766.1312",
-  email: "Dtyler.Cunningham@Gmail.com",
   location: "Issaquah, Wa",
   linkedin: "linkedin.com/in/DevinCunningham",
   github: "github.com/DevinTyler26",
   longestChipotleStreak: 425,
-  greatProgrammer: true
+  okayProgrammer: true
 };
 // clickable links down below
 ```
@@ -21,32 +19,35 @@ Full-stack software developer skilled in building web applications, collaboratin
 
 ## Experience
 
+### Procore Technologies | Software Engineer II
+Redmond, WA | May 2021 - Present
+- Developing an observability pipeline to enable Procore engineers to have better insights into their applications health
+
+### SAP Concur | Software Development Engineer II
+Bellevue, WA | Mar 2019 – May 2021
+
 ### SAP Concur | Software Development Engineer
-
-Bellevue, WA | Jan 2019 – Present
-
-- Will be an SDE on the Cloud Services Team
+Bellevue, WA | Jan 2019 – May 2021
+- Developed and maintained Concur‘s public-facing website, Concur Open.
+- Leveraged AWS CloudFormation to manage our infrastructure as code.
+- Automated application deployments with Docker, AWS CodeBuild/CodePipeline, reducing human error while deploying.
+- Led the initiative to implement frontend testing frameworks.
+- Created a Slackbot for support deflection.
 
 ### Allegro Pediatrics | Software Development Engineer (under contract)
-
 Bellevue, WA | Aug 2018 – Nov 2018
-
 - Engineering and developing internal IT inventory management system.
 - Administering on-premise web servers to deploy and host web applications.
 - Created video documentation for creating SharePoint sub-sites.
 
 ### UW Professional & Continuing Education (Via Trilogy Education) | Primary Teaching Assistant
-
 Bellevue, WA | Sep 2018 – Dec 2018
-
 - Educating students on the field of web development.
 - Providing feedback to improve programming technique and efficiency.
 - Motivating students to attain personal goals.
 
 ### Allegro Pediatrics | Marketing and Communications Specialist
-
 Bellevue, WA | Feb 2014 – Aug 2018
-
 - Maintained and enhanced company’s public-facing website and internal SharePoint intranet.
 - Developed, maintained, and broadened brand image through print, digital, and video advertising.
 - Collaborated on a team to rebrand Pediatric Associates to Allegro Pediatrics.
