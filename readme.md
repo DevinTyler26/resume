@@ -1,10 +1,10 @@
 # Devin Tyler Cunningham
 
-## Software Development Engineer
+## Senior Software Engineer
 
 ```javascript
 const devinTylerCunningham = {
-  location: "Issaquah, Wa",
+  location: "Black Diamond, Wa",
   linkedin: "linkedin.com/in/DevinCunningham",
   github: "github.com/DevinTyler26",
   longestChipotleStreak: 425,
@@ -18,10 +18,14 @@ const devinTylerCunningham = {
 Full-stack software developer skilled in building web applications, collaborating with teams, and delivering a top notch final product. Have a background in marketing and graphic design, and understand how to both develop and communicate a product’s value.
 
 ## Experience
+### Procore Technologies | Senior Software Engineer
+Black Diamond, WA | Oct 2022 - Present
+- TBD
 
 ### Procore Technologies | Software Engineer II
-Redmond, WA | May 2021 - Present
-- Developing an observability pipeline to enable Procore engineers to have better insights into their applications health
+Redmond, WA | May 2021 - Sep 2022
+- Developed an observability pipeline to enable Procore engineers to have better insights into the health of their applications
+- Created a JS/TS Observability library to standardize telemetry data across all JS/TS applications at Procore
 
 ### SAP Concur | Software Development Engineer II
 Bellevue, WA | Mar 2019 – May 2021
