@@ -16,26 +16,27 @@ const devinTylerCunningham = {
 
 ## About Me
 
-Full-stack software developer skilled in building web applications, collaborating with teams, and delivering a top notch final product. Have a background in marketing and graphic design, and understand how to both develop and communicate a product’s value.
+Experienced Sr. Software Engineer with expertise in building and deploying containerized full-stack web applications, proficiently collaborating with cross-functional teams, and delivering exceptional end-products.
 
 ## Experience
 ### Procore Technologies | Senior Software Engineer
 Black Diamond, WA | Oct 2022 - Present
-- TBD
+- Crafted a cutting-edge tracing module utilizing OpenTelemetry, seamlessly integrated across all newly implemented NodeJS/NestJS services
+- Streamlined the onboarding and upkeep of SLOs-as-code through automation
 
 ### Procore Technologies | Software Engineer II
 Redmond, WA | May 2021 - Sep 2022
-- Developed an observability pipeline to enable Procore engineers to have better insights into the health of their applications
-- Created a JS/TS Observability library to standardize telemetry data across all JS/TS applications at Procore
-
+- Collaborated on the development of an observability pipeline, empowering Procore engineers with comprehensive application health insights
+- Developed a JS/TS Observability library, standardizing telemetry data across all JS/TS applications at Procore for heightened observability
+- 
 ### SAP Concur | Software Development Engineer II
 Bellevue, WA | Mar 2019 – May 2021
+- Utilized AWS CloudFormation to proficiently manage infrastructure as code, streamlining and optimizing the process
+- Automated application deployments through Docker, AWS CodeBuild, and CodePipeline, significantly minimizing human error during deployment
 
 ### SAP Concur | Software Development Engineer
 Bellevue, WA | Jan 2019 – May 2021
 - Developed and maintained Concur‘s public-facing website, Concur Open.
-- Leveraged AWS CloudFormation to manage our infrastructure as code.
-- Automated application deployments with Docker, AWS CodeBuild/CodePipeline, reducing human error while deploying.
 - Led the initiative to implement frontend testing frameworks.
 - Created a Slackbot for support deflection.
 
@@ -111,6 +112,14 @@ JavaScript, HTML5, CSS/SASS, & Python
 
 Git, GitHub, VS Code, REST APIs, Heroku, MongoDB, Mlab, Mongoose, NodeJS,
 ReactJS/Redux, Webpack, Jest, Cypress, Swagger.io, Handlebars, AWS - S3, CloudFront, Elastic Beanstalk, & DynamoDB
+
+## Publications
+### Procore's Engineering Blog
+- Feb 2023
+  - [Implementing SLOS-as-Code - A Case Study](https://engineering.procore.com/implementing-slos-as-code-a-case-study-2/)
+- Aug 2022 
+  - [Standardizing Observability at Procore](https://engineering.procore.com/standardizing-observability-at-procore/)
+
 
 ## Clickable Contact Links
 
